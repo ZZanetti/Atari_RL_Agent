@@ -1,5 +1,5 @@
-# Atari_RL_Agent
-Training an agent to outperform random action selection on Atari Games using PyTorch and OpenAI Gym.
+# Intelligent Agent Atari
+Training an agent to outperform random action selection on Atari Games using a DDQN implemented in PyTorch and OpenAI Gym.
 
 The full notebook with output is hosted here: https://zzanetti.github.io/IntelligentAgentAtari/
 
